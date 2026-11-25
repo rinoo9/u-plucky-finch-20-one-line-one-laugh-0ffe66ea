@@ -8,7 +8,9 @@ Entry for the [make.fun](https://make.fun/bounty/u-plucky-finch-20-one-line-one-
 
 ## The line
 
-> I whispered a secret to my smart speaker, and now my toaster won't look me in the eye.
+> My smart speaker leaked my secret, so now my toaster burns my toast on purpose.
+
+(79 characters — one line, under the 200-character limit.)
 
 ## How it works
 
