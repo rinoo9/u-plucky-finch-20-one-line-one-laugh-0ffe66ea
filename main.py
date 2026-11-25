@@ -7,7 +7,7 @@ Deterministic: the same line every run, no randomness, no network.
 
 import os
 
-LINE = "I whispered a secret to my smart speaker, and now my toaster won't look me in the eye."
+LINE = "My smart speaker leaked my secret, so now my toaster burns my toast on purpose."
 
 
 def main():
