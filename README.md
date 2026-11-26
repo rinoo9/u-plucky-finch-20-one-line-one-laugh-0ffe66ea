@@ -8,7 +8,7 @@ Entry for the [make.fun](https://make.fun/bounty/u-plucky-finch-20-one-line-one-
 
 ## The line
 
-> My smart speaker leaked my secret, so now my toaster burns my toast on purpose.
+> My fridge started a podcast about my midnight snacking, and it already has more listeners than my band.
 
 (79 characters — one line, under the 200-character limit.)
 
