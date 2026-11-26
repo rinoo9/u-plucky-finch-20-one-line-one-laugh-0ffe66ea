@@ -8,9 +8,9 @@ Entry for the [make.fun](https://make.fun/bounty/u-plucky-finch-20-one-line-one-
 
 ## The line
 
-> My fridge started a podcast about my midnight snacking, and it already has more listeners than my band.
+> My smartwatch congratulated me for burning 400 calories, but I was just furiously deleting 3,000 unread emails.
 
-(79 characters — one line, under the 200-character limit.)
+(111 characters — one line, under the 200-character limit.)
 
 ## How it works
 
